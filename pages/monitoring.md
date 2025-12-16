@@ -6,6 +6,7 @@
 - [Healthchecks.io](#healthchecksio)
 - [Honeybadger.io](#honeybadgerio)
 - [Librato](#librato)
+- [MonitorMonk](#monitormonk)
 - [New Relic](#new-relic)
 - [OnlineOrNot](#onlineornot)
 - [Sematext SPM](#sematext-spm)
@@ -44,6 +45,15 @@
 
 * *Free tier*: (Developer plan) 100 metric streams at 60s resolution 1 day retention, 10 alerts, 1 dashboard.
 * *Pros*: allows for submission of metrics from multiple sources, metrics can be submitted via an agent or directly to the API.
+
+## MonitorMonk
+
+[Product page](https://monitormonk.com/) - [Pricing page](https://monitormonk.com/#pricing)
+- *Free tier*: Up to 10 websites or APIs (urls), 2 public status pages ("dashboards"), 1-minute check intervals.
+- *Pros*: HTTPS, keyword, page speed and SSL certificate monitoring. Minimalist approach. Nice status pages. Quick setup.
+- *Limitations*: Single user (no team members), no history.
+- *Exceeding the free tier*: Not possible to exceed limits. You can upgarde for higher quotas though.
+- *Credit card required*: No. The free plan is forever free.
 
 ## New Relic
 
