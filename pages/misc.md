@@ -2,6 +2,7 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [APIVerve](#apiverve)
 - [Argonaut](#argonaut)
 - [ExchangeRate-API](#exchangerate-api)
 - [FingerprintJS Pro](#fingerprintjs-pro)
@@ -16,6 +17,15 @@
 
 <!-- /TOC -->
 
+## APIVerve
+
+[APIVerve](https://apiverve.com/?utm_source=stack-on-a-budget)
+
+* *Free Tier*: 1,000 free tokens per month, a free mock endpoint, and a free JSON bin
+* *Pros*: High quality curated APIs to help build your next project, 1 API Key gives you access to all APIs
+* *Limitations*: Free tier has rate limits, and some api features are locked down on the free tier
+* *Exceeding the free tier*: API calls return an error
+  
 ## Argonaut
 
 [Argonaut](https://argonaut.dev/?utm_source=stack-on-a-budget&utm_medium=rsrc)
